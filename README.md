@@ -1,0 +1,2 @@
+# autopsy--autonomous-trading-intelligence-network--atin-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Trading Intelligence Network (ATIN)' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: SKILLS: [system_design, deployment, automation]METRICS:Coordination: 1Technical Complexity: 1Efficiency: 1Clarity: 1SUGGEST_UI: FalseSUGGESTION_TITORIGINAL ERROR LOGS:Ollama model did not retu
